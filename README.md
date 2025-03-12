@@ -6,7 +6,7 @@ This project analyzes customer purchase data to extract valuable insights, such 
 
 📂 Dataset Information
 
-File Name: Cust_Purch_FakeData.csv and analysis.ipynb
+File Name: Cust_Purch_FakeData.csv and Cust_Purch_Data_Exercise.ipynb
 
 🔍 Key Questions Answered
 
